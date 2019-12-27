@@ -1,0 +1,9 @@
+﻿1_11_2588.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+1_2_10718.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+1_3_10171.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+1_4_10172.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+1_5_1000.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+1_6_1001.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+1_7_10998.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+1_9_10869.obj : error LNK2005: _main이(가) 1_10_10430.obj에 이미 정의되어 있습니다.
+C:\Users\밍\source\repos\acmicpc\Debug\acmicpc.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
